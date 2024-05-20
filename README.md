@@ -1,8 +1,8 @@
 # Play a Setlist
 
-**[ENG]** External game mode for Clone Hero, ScoreSpy, and YARG. Allows voting on various randomly selected songs and playing the most voted ones. Supports Twitch and YouTube chats.
+**[ENG]** External game mode for Clone Hero, ScoreSpy, and YARG. Allows voting on various randomly selected songs and playing the most voted ones.
 
-**[ESP]** Modo de juego externo para Clone Hero, ScoreSpy y YARG. Permite votar entre varias canciones seleccionadas aleatoriamente y jugar las más votadas. Soporte para los chats de Twitch y YouTube.
+**[ESP]** Modo de juego externo para Clone Hero, ScoreSpy y YARG. Permite votar entre varias canciones seleccionadas aleatoriamente y jugar las más votadas.
 
 ---
 
